@@ -49,3 +49,9 @@ Sie ist für die Git-Übungsaufgabe gedacht, in der ein `dev`-Branch erstellt,
   ```
 
 Viel Erfolg!
+
+## Änderungsprotokoll
+- `index.html`: Name (Eren Kesik), Klasse/Kurs (FI42) und E-Mail (FI42-ErKesik@student.bkukr.de) eingetragen
+- `index.html`: Die 3 Beispiel-Interessen durch eigene Interessen ersetzt
+- `index.html`: Abschnitt „Über mich“ mit 3 Sätzen ergänzt, Seitentitel und Bild-Alt-Text angepasst
+- `README.md`: Diesen Abschnitt „Änderungsprotokoll“ hinzugefügt
